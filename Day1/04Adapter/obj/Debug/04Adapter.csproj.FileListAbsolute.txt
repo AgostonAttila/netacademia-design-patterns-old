@@ -1,0 +1,5 @@
+C:\Users\ceh\DP201609\Day1\04Adapter\bin\Debug\04Adapter.dll
+C:\Users\ceh\DP201609\Day1\04Adapter\bin\Debug\04Adapter.pdb
+C:\Users\ceh\DP201609\Day1\04Adapter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ceh\DP201609\Day1\04Adapter\obj\Debug\04Adapter.dll
+C:\Users\ceh\DP201609\Day1\04Adapter\obj\Debug\04Adapter.pdb

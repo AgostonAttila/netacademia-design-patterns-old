@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_01Bridge.Jelentes">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAIAAAAAAAQEAAAAAAAAAAAAAAAEAIA=</HashCode>
+      <FileName>Jelentes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01Bridge.Korlevel" BaseTypeListCollapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAACAAAAAQAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Korlevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01Bridge.Oneletrajz" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACCAAAAACAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Oneletrajz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01Bridge.Dokumentum">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dokumentum.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="formazo" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="_01Bridge.IFormazo" Collapsed="true">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Dokumentum.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

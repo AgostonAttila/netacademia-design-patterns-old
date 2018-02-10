@@ -1,0 +1,12 @@
+C:\Users\ceh\DP201609\Day1\03Strategy\bin\Debug\03Strategy.exe.config
+C:\Users\ceh\DP201609\Day1\03Strategy\bin\Debug\03Strategy.exe
+C:\Users\ceh\DP201609\Day1\03Strategy\bin\Debug\03Strategy.pdb
+C:\Users\ceh\DP201609\Day1\03Strategy\obj\Debug\03Strategy.exe
+C:\Users\ceh\DP201609\Day1\03Strategy\obj\Debug\03Strategy.pdb
+C:\Users\ceh\DP201609\Day1\03Strategy\bin\Debug\EntityFramework.dll
+C:\Users\ceh\DP201609\Day1\03Strategy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ceh\DP201609\Day1\03Strategy\bin\Debug\EntityFramework.xml
+C:\Users\ceh\DP201609\Day1\03Strategy\bin\Debug\EntityFramework.SqlServer.xml
+E:\Programming\Workspace\C#\IT Factory\Design Patterns\Day1\03Strategy\bin\Debug\03Strategy.exe.config
+E:\Programming\Workspace\C#\IT Factory\Design Patterns\Day1\03Strategy\obj\Debug\03Strategy.exe
+E:\Programming\Workspace\C#\IT Factory\Design Patterns\Day1\03Strategy\obj\Debug\03Strategy.pdb

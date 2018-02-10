@@ -1,0 +1,8 @@
+C:\Users\ceh\DP201609\Day3\04Builder\bin\Debug\04Builder.exe.config
+C:\Users\ceh\DP201609\Day3\04Builder\bin\Debug\04Builder.exe
+C:\Users\ceh\DP201609\Day3\04Builder\bin\Debug\04Builder.pdb
+C:\Users\ceh\DP201609\Day3\04Builder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ceh\DP201609\Day3\04Builder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ceh\DP201609\Day3\04Builder\obj\Debug\04Builder.csprojResolveAssemblyReference.cache
+C:\Users\ceh\DP201609\Day3\04Builder\obj\Debug\04Builder.exe
+C:\Users\ceh\DP201609\Day3\04Builder\obj\Debug\04Builder.pdb
